@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.79.1](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.79.0...v2.79.1) (2025-09-14)
+
+
+### Bug Fixes
+
+* remove reference to AE::cv in push_ocr_ready_to_redis function ([#12364](https://github.com/openfoodfacts/openfoodfacts-server/issues/12364)) ([f136f0f](https://github.com/openfoodfacts/openfoodfacts-server/commit/f136f0f21339d5e9f3944503f8fc3af00acb6aeb))
+
 ## [2.79.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.78.1...v2.79.0) (2025-09-12)
 
 
